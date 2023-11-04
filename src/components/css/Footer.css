@@ -1,0 +1,25 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+.Footer{
+    width: 100%;
+    border-top: 0.1px solid rgb(212, 212, 212);
+    height: 35px;
+    display: flex;
+    color: rgb(133, 127, 127);
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    font-size:9px;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+}
