@@ -1,0 +1,44 @@
+.design{
+  min-height: 100vh;
+  display: grid;
+  align-items: center;
+  }
+
+  .form {
+    max-width: 400px;
+    border-top: 5px solid #f59e0b;
+  }
+
+  #signInDiv{
+    cursor: pointer;
+    border: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  h4 {
+    text-align: center;
+    margin-bottom: 1.38rem;
+  }
+
+  #login-header{
+    font-size: 1rem;
+    text-transform: lowercase;
+  }
+
+  p {
+    margin-top: 1rem;
+    line-height: 1.5;
+  }
+
+  .btn {
+    margin-top: 1rem;
+  }
+  
+  .member-btn {
+    color: #f59e0b;
+    letter-spacing: var(--letter-spacing);
+    margin-left: 0.25rem;
+  }
